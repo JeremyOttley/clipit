@@ -4,15 +4,15 @@
 *** Case
 [✓] Capitalize.rb
 
-[x] lowercase.rb
+[✓] lowercase.rb
 
 [-] Title_Case.rb
 
-[x] UPPERCASE.rb
+[✓] UPPERCASE.rb
 
 *** Trim
-[x] Ltrim.rb
+[✓] Ltrim.rb
 
-[x] Rtrim.rb
+[✓] Rtrim.rb
 
 [-] Trim.rb
