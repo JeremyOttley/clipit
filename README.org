@@ -3,11 +3,16 @@
 
 *** Case
 [x] Capitalize.rb
+
 [x] lowercase.rb
+
 [-] Title_Case.rb
+
 [x] UPPERCASE.rb
 
 *** Trim
 [x] Ltrim.rb
+
 [x] Rtrim.rb
+
 [-] Trim.rb
