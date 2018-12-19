@@ -1,0 +1,13 @@
+* Clipit
+** Work Profile: Ruby
+
+*** Case
+1. Capitalize.rb
+2. lowercase.rb
+3. Title_Case.rb
+4. UPPERCASE.rb
+
+*** Trim
+1. Ltrim.rb
+2. Rtrim.rb
+3. Trim.rb
