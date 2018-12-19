@@ -6,7 +6,7 @@
 
 [✓] lowercase.rb
 
-[-] Title_Case.rb
+[Χ] Title_Case.rb
 
 [✓] UPPERCASE.rb
 
@@ -15,4 +15,4 @@
 
 [✓] Rtrim.rb
 
-[-] Trim.rb
+[Χ] Trim.rb
