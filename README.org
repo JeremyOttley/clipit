@@ -2,7 +2,7 @@
 ** Work Profile: Ruby
 
 *** Case
-1. Capitalize.rb
+-[x] Capitalize.rb
 2. lowercase.rb
 3. Title_Case.rb
 4. UPPERCASE.rb
