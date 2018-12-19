@@ -2,7 +2,7 @@
 ** Work Profile: Ruby
 
 *** Case
-[x] Capitalize.rb
+[✓] Capitalize.rb
 
 [x] lowercase.rb
 
